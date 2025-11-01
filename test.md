@@ -17,13 +17,13 @@ combine from next line
 ### nested sorted list
 
 1. car
-  1. bmw
-  2. tata
-  3. audi
-2. bike
-  1. yamaha
-  2. hero
-  3. Tvs
+   1. bmw
+   2. tata
+   3. audi
+1. bike
+   1. yamaha
+   2. hero
+   3. Tvs
 
 ## unorderd list
 
@@ -66,3 +66,38 @@ __for boald use two underscores__
 > this new line with bar at starting
 >> sub text added and new line with thee minus simbols
 ---
+
+## for checkbxs
+
+- [X] html
+- [X] css
+
+
+### for teable creattion 
+
+|  name  |  marks  |
+|---     |---     |
+|satish | 23|
+
+### to add code sampls
+
+``` html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Page!</h1>
+    <p>This is a simple HTML example demonstrating basic structure.</p>
+    <p>You can add more content, like images, links, and lists, here.</p>
+</body>
+</html>
+```
+
+```js
+
+let x=10;
+
+```
+
