@@ -24,7 +24,7 @@ combine from next line
 
 
 - list1
- - sublist1
- - sublist2
-- sublist2
+  - sublist1
+  - sublist2
+  - sublist2
 
