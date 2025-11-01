@@ -1,6 +1,6 @@
 # this is a git testing project
 
-##second heading
+## second heading
 
 ### third Heading
 
@@ -9,7 +9,7 @@ this is new paragraph 1
 this is second paragraph 2
 combine from next line
 
-###order list
+### order list
 1. item1 --add space after dot
 1. item2
 1. item3
